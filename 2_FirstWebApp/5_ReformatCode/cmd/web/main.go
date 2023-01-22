@@ -1,7 +1,7 @@
 package main
 
 import (
-	"5_ReformatCode/pkg/handlers"
+	"github.com/satirrr/UdemyGolang/2_FirstWebApp/5_ReformatCode/pkg/handlers"
 	"log"
 	"net/http"
 )
